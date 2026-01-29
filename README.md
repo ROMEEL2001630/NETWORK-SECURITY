@@ -1,0 +1,1 @@
+I developed and implemented network monitoring tools and analytical processes to identify suspicious IP addresses, such as those associated with malicious actors attempting to exploit user data breaches within our AWS cloud computing environment. This involved leveraging Python modules and tools like Nmap and Wireshark to ascertain IP geolocation.
